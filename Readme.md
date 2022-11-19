@@ -4,7 +4,7 @@
   
   This project is done with the association of IBM by Nalaiya Thiran.
   
-Our Team:
+## _Our Team:_
     
     Team ID : PNT2022TMID16504
     Team Size : 4
@@ -16,7 +16,7 @@ Our Team:
           
   
   
-Pre-Requisites:
+## _Pre-Requisites:_
 
       1. Python-3.9
       2. Python Environment(Anaconda - Spyder and Jupiter Notebook)
@@ -33,4 +33,4 @@ Pre-Requisites:
 
 WE HAVE BUILT AN CNN MODEL FITTED IN FLASK TO CONVERT AMERICAN SIGN LANGUAGE(ASL) TO ENGLISH SPEECH.
 
-Demonstration Video Link: https://drive.google.com/file/d/1vZI4KvMjW5GiQI_knZlIPfSmqpU43agR/view?usp=sharing
+### _Demonstration Video Link :_ https://drive.google.com/file/d/1vZI4KvMjW5GiQI_knZlIPfSmqpU43agR/view?usp=sharing
