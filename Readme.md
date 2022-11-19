@@ -1,4 +1,4 @@
-Real-Time Communication System Powered by AI for Specially Abled :
+# **Real-Time Communication System Powered by AI for Specially Abled:**
 
   The project's objective is to create an interactive system that can convert sign language for the deaf and dumb into understandable spoken English.
   
