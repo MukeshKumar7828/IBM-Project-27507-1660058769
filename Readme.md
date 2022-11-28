@@ -33,4 +33,3 @@
 
 WE HAVE BUILT AN CNN MODEL FITTED IN FLASK TO CONVERT AMERICAN SIGN LANGUAGE(ASL) TO ENGLISH SPEECH.
 
-### _Demonstration Video Link :_ https://drive.google.com/file/d/1vZI4KvMjW5GiQI_knZlIPfSmqpU43agR/view?usp=sharing
